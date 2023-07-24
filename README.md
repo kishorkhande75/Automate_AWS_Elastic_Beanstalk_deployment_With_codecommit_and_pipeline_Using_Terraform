@@ -1,4 +1,4 @@
-# AWS_Elastic_Beanstalk_With_codecommit_and_pipeline_Terraform
+# Automate_AWS_Elastic_Beanstalk_deployment_With_codecommit_and_pipeline_Using_Terraform
 
 # AWS Elastic Beanstalk Resources
 
